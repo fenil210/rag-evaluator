@@ -1,3 +1,5 @@
+DO CHECK: https://github.com/AIAnytime/rag-evaluator for more details
+
 # RAG Evaluator
 
 ## Overview
